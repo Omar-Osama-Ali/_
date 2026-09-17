@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Replace https://YOUR-DOMAIN-HERE with your live site's actual domain
+  (e.g. https://omarosama.com/ or https://<username>.github.io/<repo>/)
+  before uploading this file alongside index.html.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
